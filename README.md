@@ -1,2 +1,2 @@
-# odin-landing-page
-https://urveeshdadhich.github.io/Landing-page/
+# Landing-Page-Odin-s-Project-
+A project to create a dummy landing page 
